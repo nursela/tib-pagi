@@ -1,0 +1,54 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: Calmers
+Judul Topik:SMARTPHONE ANDROID
+Alamat Github: https://github.com/mustikaulina/TKPPL
+Alamat Trello: https://trello.com/b/NbL2f0sk/tkppl-smartphone-android
+Anggota 1:
+	Nama: Mustika Ulina
+	NIM: 121112244
+Anggota 2:
+	Nama: Windi Elvia Pulungan
+	NIM: 121112015
+Anggota 3:
+	Nama: Nursela
+	NIM: 121112201
+Anggota 4:
+	Nama: Yanti Susanna Siregar
+	NIM: 121111788
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+2/5 - 4/5
+Scrummaster: Mustika ULina (121112244)
+
+Sprint 2:
+
+
+Sprint 3: 
+
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+26/5 
+Daily Scrum
+(Nama Anggota 1): Yanti Susanna Siregar
+1. Semalam saya.. (abaikan jika hari pertama)
+2. Hari ini saya membuat slide tentang android
+3. Tidak ada kendala
+
+(Nama Anggota 2): Windi Elvia Pulungan
+1. Hari ini saya membuat slide tentang version-version yang ada pada android
+2. Kendala saya pada pengeditan index.jade
+
+(Nama Anggota 3):
+1. Hari ini saya menclone repository
+2. tidak ada kendala
+
+...
+
