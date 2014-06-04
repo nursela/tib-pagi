@@ -35,7 +35,7 @@ Sprint 3:
 Progress Harian (Diupdate tiap hari)
 ------------------------------------
 
-26/5 
+2/6 
 Daily Scrum
 (Nama Anggota 1): Yanti Susanna Siregar
 1. Semalam saya.. (abaikan jika hari pertama)
@@ -46,9 +46,26 @@ Daily Scrum
 1. Hari ini saya membuat slide tentang version-version yang ada pada android
 2. Kendala saya pada pengeditan index.jade
 
-(Nama Anggota 3):
+(Nama Anggota 3): Nursela
 1. Hari ini saya menclone repository
 2. tidak ada kendala
 
-...
+3/6
+Daily Scrum
+(Nama Anggota 1): Yanti Susanna Siregar
+1. Semalam saya menambah slide tentang android
+2. Hari ini saya mencari tentang privacy android
+3. Tidak ada kendala
+
+(Nama Anggota 2): Windi Elvia Pulungan
+1. Semalam saya membuat slide tentang versi android
+2. Hari ini saya lanjut menambahkan slide tentang versi android
+3. Kendala saya pada terjadinya merging 
+
+(Nama Anggota 3): Nursela
+1. semalam saya menclone repository
+2. hari ini saya mencoba menambahkan slide tentang smartphone
+3. Kendala saya pada error nya grunt server 
+
+
 
